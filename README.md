@@ -1,4 +1,4 @@
-```markdown
+
 # FHE-based Decentralized Credit Bureau Using Encrypted Payment Histories
 
 Harnessing the power of **Zama's Fully Homomorphic Encryption (FHE) technology**, this project serves as a decentralized credit bureau leveraging encrypted payment histories. By enabling users to consolidate their FHE-encrypted transaction data from multiple sources—including banks and cryptocurrency payments—this innovative protocol generates verifiable, privacy-preserving credit reports.
